@@ -1,0 +1,2 @@
+hrckinect
+-DCATKIN_DEVEL_PREFIX=/home/ramapriya/hrc_kinect/devel -DCMAKE_INSTALL_PREFIX=/home/ramapriya/hrc_kinect/install -G Unix Makefiles

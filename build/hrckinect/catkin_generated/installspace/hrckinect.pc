@@ -1,0 +1,8 @@
+prefix=/home/ramapriya/hrc_kinect/install
+
+Name: hrckinect
+Description: Description of hrckinect
+Version: 0.0.0
+Cflags: 
+Libs: -L/home/ramapriya/hrc_kinect/install/lib 
+Requires: 
